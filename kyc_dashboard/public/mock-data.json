@@ -1,0 +1,29 @@
+{
+  "totalKyc": {
+    "new": { "count": 3000, "change": 12 },
+    "modified": { "count": 456, "change": -10 }
+  },
+  "barChart": {
+    "today": { "individual": 350, "nonIndividual": 250 },
+    "yesterday": { "individual": 270, "nonIndividual": 200 }
+  },
+  "kycStatus": {
+    "initiated": 234,
+    "underProcess": 45,
+    "registered": 350,
+    "validated": 654,
+    "hold": 269,
+    "docsPending": 100
+  },
+  "categories": {
+    "individual": { "RI": 80, "NRI": 40 },
+    "nonIndividual": { "RI": 60, "NRI": 30 }
+  },
+  "panStats": {
+    "solicited": { "withImage": 400, "withoutImage": 256 },
+    "received": { "withImage": 300, "withoutImage": 100 }
+  },
+  "circularChart": {
+    "solicited": { "total": 3456, "received": 2000, "consumed": 1000, "pending": 456 }
+  }
+}
